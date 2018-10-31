@@ -1,5 +1,5 @@
-﻿const Discord = require('discord.js');
-const client = new Discord.Client();
+﻿const Discord = require('467043625620996106');
+const client = new Discord.Client(506567713661911040);
 console.log("Scrpit By Dream");
 
 
@@ -11,4 +11,4 @@ channel.send(`youtube`);
 })
  
  
-client.login('TOKEN');
+client.login('"NDg1NTEwNzI1Njc1MjUzNzYy.DrnTIg.qFioY6_AqoGtsrSXvRX8U3IrzSQ"');
